@@ -4,3 +4,6 @@ Three
 Blue
 Green
 Red
+North
+South
+East
