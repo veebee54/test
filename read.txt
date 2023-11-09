@@ -10,3 +10,5 @@ East
 Sunday
 Monday
 Tuesday
+Birds
+Animals
